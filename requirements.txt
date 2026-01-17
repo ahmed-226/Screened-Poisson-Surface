@@ -1,0 +1,9 @@
+open3d
+numpy
+matplotlib
+scipy
+pytest
+trimesh
+pandas
+tabulate
+scikit-image
